@@ -53,8 +53,6 @@ include::sections/clause_9_coverage.adoc[]
 
 include::sections/clause_10_labeling.adoc[]
 
-include::sections/clause_11_shapes.adoc[]
-
 include::sections/clause_12_graphical_hierarchy.adoc[]
 
 include::sections/clause_13_advanced_strokes.adoc[]
