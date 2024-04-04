@@ -1,4 +1,4 @@
-= OGC Styles and Symbology Model and Encodings - Part 1: Core
+= OGC Cartographic Symbology - Part 1: Core Model & Encodings (aka SymCore2)
 :doctype: standard
 :docsubtype: implementation
 :status: swg-draft
@@ -6,7 +6,7 @@
 :lang: en
 :committee: technical
 :draft: 2.0
-:abbrev: symbology
+:abbrev: cartosym
 :edition: 2.0
 :external-id: http://www.opengis.net/doc/IS/{abbrev}-1/{edition}
 :docnumber: 18-067r4
